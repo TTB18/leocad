@@ -19,7 +19,7 @@ rendering.
 - LeoCAD for Windows:
 
   Download LeoCAD-Windows-18.02.exe to your computer, double click on the
-  icon to launch the installer and follow the intructions.
+  icon to launch the installer and follow the instructions.
 
 - LeoCAD for Linux:
 
